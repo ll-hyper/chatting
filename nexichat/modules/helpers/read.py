@@ -32,7 +32,7 @@ CHATBOT_READ = f"""
 <b>||©️ @{OWNER_USERNAME}||</b>
 """
 
-SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{nexichat.name}](https://t.me/{nexichat.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**✨ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [𝐋𝐎𝐕𝐄 𝐒𝐓𝐀𝐓𝐔𝐒❤️‍🩹](https://t.me/LOVE_ME_BABBY)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
+SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{nexichat.name}](https://t.me/{nexichat.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**✨ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [𝐅𝐄𝐄𝐋𝐈𝐍𝐆𝐒 ❤️‍🩹](https://t.me/FEELING_SMILEY)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/FRIENSHIP_CLUB_GROUP).\n<b>||©️ (@hyper_trader_o_p)||</b>"
 
 ADMIN_READ = f"sᴏᴏɴ"
 
@@ -40,7 +40,7 @@ ABOUT_READ = f"""
 **➻ [{nexichat.name}](https://t.me/{nexichat.username}) ɪs ᴀɴ ᴀɪ ʙᴀsᴇᴅ ᴄʜᴀᴛ-ʙᴏᴛ.**
 **➻ [{nexichat.name}](https://t.me/{nexichat.username}) ʀᴇᴘʟɪᴇs ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴛᴏ ᴀ ᴜsᴇʀ.**
 **➻ ʜᴇʟᴘs ʏᴏᴜ ɪɴ ᴀᴄᴛɪᴠᴀᴛɪɴɢ ʏᴏᴜʀ ɢʀᴏᴜᴘs.**
-**➻ ᴊᴏɪɴ [❤️ ꜰʀɪᴇɴᴅꜱʜɪᴘ ɢʀᴏᴜᴘ ❤️](https://t.me/FRIENDSHIP_CHAT_GROUP0) ᴡɪᴛʜ [ʙᴅɢ ᴡɪɴ ᴏꜰꜰɪᴄɪᴀʟ](https://t.me/BDGWINGAME3) **
+**➻ ᴊᴏɪɴ [❤️ ꜰʀɪᴇɴᴅꜱʜɪᴘ ɢʀᴏᴜᴘ ❤️](https://t.me/FRIENSHIP_CLUB_GROUP) ᴡɪᴛʜ [𝐅𝐄𝐄𝐋𝐈𝐍𝐆𝐒 ❤️‍🩹](https://t.me/FEELING_SMILEY) **
 **──────────────**
 **➻ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ғᴏʀ ɢᴇᴛᴛɪɴɢ ʙᴀsɪᴄ ʜᴇʟᴩ ᴀɴᴅ ɪɴғᴏ ᴀʙᴏᴜᴛ [{nexichat.name}](https://t.me/{nexichat.username})**
 """
